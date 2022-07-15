@@ -1,6 +1,6 @@
 # weather_00
 
-A new Flutter project.
+A new Flutter project using weather api as a backend !!
 
 
 # App Demo
